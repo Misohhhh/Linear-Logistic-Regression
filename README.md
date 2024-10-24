@@ -1,6 +1,6 @@
 # Linear-Logistic-Regression
 
-This project implements linear and logistic regression models from scratch as part of the COMP 551 course at McGill University. We experimented with gradient descent techniques and analyzed their performance on two benchmark datasets: the **Infrared Thermography Temperature dataset** (regression task) and the **CDC Diabetes Health Indicators dataset** (classification task).
+This project implements linear and logistic regression models from scratch. We experimented with gradient descent techniques and analyzed their performance on two benchmark datasets: the **Infrared Thermography Temperature dataset** (regression task) and the **CDC Diabetes Health Indicators dataset** (classification task).
 
 ## Overview
 - **Linear Regression**: Predict oral temperature using thermal imaging features.
