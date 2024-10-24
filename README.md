@@ -32,5 +32,5 @@ This project implements linear and logistic regression models from scratch. We e
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Misohhhh/COMP551-Assignment1.git
-   cd COMP551-Assignment1
+   git clone https://github.com/Misohhhh/Linear-Logistic-Regression.git
+   cd Linear-Logistic-Regression
