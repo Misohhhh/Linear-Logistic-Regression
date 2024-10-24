@@ -7,12 +7,10 @@ This project implements linear and logistic regression models from scratch as pa
 - **Logistic Regression**: Classify diabetes status based on demographic and health indicators.
 
 ## Datasets
-1. **Infrared Thermography Dataset**  
-   [Link](https://archive.ics.uci.edu/dataset/925/infrared+thermography+temperature+dataset)  
+1. **Infrared Thermography Dataset**  [Here](https://archive.ics.uci.edu/dataset/925/infrared+thermography+temperature+dataset)  
    Goal: Predict average oral temperature using 33 features.
    
-2. **CDC Diabetes Health Indicators Dataset**  
-   [Link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)  
+2. **CDC Diabetes Health Indicators Dataset**  [Here](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)  
    Goal: Classify individuals' diabetes status based on lifestyle and healthcare indicators.
 
 ## Key Features
@@ -34,5 +32,5 @@ This project implements linear and logistic regression models from scratch as pa
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/COMP551-Assignment1.git
+   git clone https://github.com/Misohhhh/COMP551-Assignment1.git
    cd COMP551-Assignment1
